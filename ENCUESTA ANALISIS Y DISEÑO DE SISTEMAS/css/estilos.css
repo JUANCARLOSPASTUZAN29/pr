@@ -1,0 +1,53 @@
+body{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+    background-image: url(../img/fondo-futurista-abstracto-diseno-3d.jpg);
+}
+header{
+    display: flex;
+    text-align: center;
+    padding: 35px;
+    margin: 35px,top 0;
+    border-radius: 10px;
+      background-color: rgba(240, 248, 255, 0.714);
+      color: rgba(34, 131, 200, 0.304);
+      font-family: 'Roboto', sans-serif;
+    text-overflow: clip;  
+      }
+       
+    
+header{
+    display: flex;
+    text-align: center;
+    padding: 35px;
+    margin: 35px,top 0;
+    border-radius: 10px;
+      background-color: rgba(240, 248, 255, 0.714);
+      color: rgba(34, 131, 200, 0.304);
+    text-overflow: ellipsis;    
+   
+}
+header:hover{
+overflow: visible;
+}
+     h6{
+        color: azure;
+        font-size: 25px;
+        font-family: 'Roboto', sans-serif;
+     }
+.col{
+    display: inline;
+    margin: 12px;
+    padding: 30px;
+    background-color: rgba(0, 132, 226, 0.726);
+    border-radius: 30px;
+    
+}
+
+button{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 1080px;
+    
+}
